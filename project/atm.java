@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ATM {
+public class atm {
     public static void main(String[] args) {
         ATMOperation obj = new ATMOperation();
     }
